@@ -1,0 +1,1 @@
+new Tiapp.App().run()
