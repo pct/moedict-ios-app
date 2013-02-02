@@ -7,7 +7,7 @@ Tiapp = root.Tiapp =
   Window: {}
 
 
-SEARCH_SERVER = 'http://moedict-api.4point-inc.com'
+SEARCH_SERVER = 'http://localhost:3000'
 
 class Tiapp.App
   run: ->
