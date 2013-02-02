@@ -10,13 +10,13 @@
 
 ## 快照
 輸入
-![輸入](https://raw.github.com/pct/moedict-server/master/screenshots/1.png)
+![輸入](https://raw.github.com/pct/moedict-ios-app/master/screenshots/1.png)
 
 列表
-![列表](https://raw.github.com/pct/moedict-server/master/screenshots/2.png)
+![列表](https://raw.github.com/pct/moedict-ios-app/master/screenshots/2.png)
 
 畫面
-![畫面](https://raw.github.com/pct/moedict-server/master/screenshots/1.png)
+![畫面](https://raw.github.com/pct/moedict-ios-app/master/screenshots/1.png)
 
 ## 字庫
 參照 [https://github.com/yllan/moedict-mac](https://github.com/yllan/moedict-mac) 及 kcwu 的 sqlite 檔案
