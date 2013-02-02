@@ -12,7 +12,7 @@
 ![](https://raw.github.com/pct/moedict-ios-app/master/screenshots/1.png)
 
 ## 字庫
-參照 [https://github.com/yllan/moedict-mac](https://github.com/yllan/moedict-mac) 及 kcwu 的 sqlite 檔案
+並非離線 App, 採用 API server 資料
 
 ## api server?
 參照 [https://github.com/pct/moedict-server](https://github.com/pct/moedict-server) 建置
@@ -27,4 +27,5 @@
 `$ ./send.sh` (send to iphone device)
 
 ## TODO
-「詞」的搜尋似乎有問題，待解決
+ * 「詞」的搜尋似乎有問題，待解決
+ * 如果要製作離線 App, sqlite 檔案近 100M 該如何處理？
